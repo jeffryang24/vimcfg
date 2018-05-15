@@ -3,3 +3,5 @@
 # vimcfg
 
 My Personal Vim Configuration. This repository is created for learning some Vim magic and managing Vim plugins easily using git scm.
+
+Credits to [Ultimate Vim Configuration](https://github.com/amix/vimrc) for its great resource and I learn many thing from that repository.
